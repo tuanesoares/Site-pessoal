@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(234, 153, 202);
+}
+
+#title{
+color: rgb(63, 22, 144);
+text-align: center;
+}
+.post_title{
+font-size: 16px;
+font-style: italic;
+}
+
+.quem_sou_eu{
+    background-color: rgb(245, 220, 235);
+    padding: 10px;
+    border: 3px solid rgb(95, 95, 95);
+    margin: 10px;
+    
+}
+
+
+.post_img{
+    margin-bottom: 50px;
+    height: 550px;
+
+}
+.post_imagem{
+    height: 350px;
+    border-radius: 45%;
+    margin-left: auto;
+    text-align: center;
+}
+.subtitle{
+    text-align: center;
+}
